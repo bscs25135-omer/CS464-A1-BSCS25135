@@ -64,8 +64,7 @@
 ## Level blockouts
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | | |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | | |
-| Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
-| Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
+| Level01 | <img src="Docs/levels/level01.png" width="320"> |we have to dodge obstacles and reach the goal | there is a tall pillar that we can look from everywhere in the map and we can follow that to reach the goal|
+| Level02 | <img src="Docs/levels/level02.png" width="320"> |there is this maze with tiny obstacles and big ones too and objective is to reach the goal |wayfinding is same as before a tall pillar |
+| Level03 | <img src="Docs/levels/level03.png" width="320"> |a more complicated maze where it is more challenging to traverse |we have 2 wayfindings here 1 is the same tall pillar and the other is xp/coins which a player can follow to reveal the goal |
+| Level04 | <img src="Docs/levels/level04.png" width="320"> |this is filled with obstacles and we have to navigate thru them and reach the goal |this only uses xp/coins |
